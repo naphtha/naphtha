@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Narh</h1>
-<h3 align="center">A humbled fullstack developer who loves to solve intricate humanitarian problems with few lines of code.</h3>
+<h3 align="center">A passionate fullstack developer who loves to solve intricate humanitarian problems with few lines of code.</h3>
 
 <p align="left"> <a href="https://twitter.com/narhkpodo" target="blank"><img src="https://img.shields.io/twitter/follow/narhkpodo?logo=twitter&style=for-the-badge" alt="narhkpodo" /></a> </p>
 
